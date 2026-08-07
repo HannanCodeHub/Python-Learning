@@ -88,7 +88,7 @@ Python-Learning/
 └── README.md
 
 ### Tools Used
-Python
-VS Code
-Git
-GitHub
+Python,
+VS Code,
+Git,
+GitHub.
